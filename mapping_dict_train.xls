@@ -1,0 +1,16 @@
+id,values
+Female,0
+Male,1
+No,0
+Yes,1
+0,0
+1,1
+2,2
+3+,3
+Graduate,0
+Not Graduate,1
+Rural,0
+Semiurban,1
+Urban,2
+N,0
+Y,1
